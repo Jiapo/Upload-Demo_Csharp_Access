@@ -1,0 +1,10 @@
+E:\AProgramme\Project\Access\Access\bin\Debug\Access.exe.config
+E:\AProgramme\Project\Access\Access\bin\Debug\Access.exe
+E:\AProgramme\Project\Access\Access\bin\Debug\Access.pdb
+E:\AProgramme\Project\Access\Access\obj\Debug\Access.csprojResolveAssemblyReference.cache
+E:\AProgramme\Project\Access\Access\obj\Debug\Access.Form1.resources
+E:\AProgramme\Project\Access\Access\obj\Debug\Access.Properties.Resources.resources
+E:\AProgramme\Project\Access\Access\obj\Debug\Access.csproj.GenerateResource.Cache
+E:\AProgramme\Project\Access\Access\obj\Debug\Access.exe
+E:\AProgramme\Project\Access\Access\obj\Debug\Access.pdb
+E:\AProgramme\Project\Access\Access\bin\Debug\demo.mdb
